@@ -1,2 +1,2 @@
 # Convo
-It is and chat app.
+It is an chat app.
